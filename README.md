@@ -1,5 +1,5 @@
 # Water-level-detection
-一个通过Opencv调用ip摄像头检测水位高度的简单实现
+一个通过Opencv调用ip摄像头检测水位高度的简单实现。<br>
 利用ip摄像头软件代替独立摄像头，通过opencv实现摄像头调用和图像处理检测水位
 
 ### 参数调整 (Parameter adjustments)
