@@ -3,8 +3,8 @@
 利用ip摄像头软件代替独立摄像头，通过opencv实现摄像头调用和图像处理检测水位
 
 ### 参数调整 (Parameter adjustments)
-ip摄像头下载地址：https://www.downkuai.com/android/142512.html
-参数修改见 warehouse/start.py
+ip摄像头下载地址：https://www.downkuai.com/android/142512.html <br>
+参数修改见 warehouse/start.py <br>
 参数详情请见 warehouse/OpencvCamera.py 中 Liquid_demo() 注释
 
 ### 运行 (run)
